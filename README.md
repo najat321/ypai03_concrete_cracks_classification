@@ -49,9 +49,17 @@ Here's a step-by-step guide on how to install and run this project:
 
  ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Evaluation%20after%20training.PNG)
  
-#### iv. Model Evaluation After Training:
+#### v. Model Evaluation After Training:
 
  ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Evaluation%20before%20training.PNG)
+ 
+#### v. Training Process Accuracy:
+
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Training%20process_accuracy.PNG)
+ 
+#### v. Training Process Loss:
+
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Training%20process_loss.PNG)
 
 ## Source of datasets : 
 https://data.mendeley.com/datasets/5y9wdsg2zt/2 
