@@ -35,19 +35,23 @@ Here's a step-by-step guide on how to install and run this project:
 ## Output of this project
 #### i. Model Accuracy:
 
-![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_ecommerce_text_classification/main/Accuracy_model.PNG)
+![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Accuracy.PNG)
 
-#### ii. Model F1-Score:
+#### ii. Model Architecture:
 
-![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_ecommerce_text_classification/main/F1%20Score_model.PNG)
+![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Architecture.PNG)
 
-#### iii. Model Performance:
+#### iii. Transfer Learning Model Architecture:
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_ecommerce_text_classification/main/Model_performance.png)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Architecture_2%20-Follow-up%20training.PNG)
  
-#### iv. Model Architecture:
+#### iv. Model Evaluation Before Training:
 
- ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_ecommerce_text_classification/main/Model%20architecture.PNG)
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Evaluation%20after%20training.PNG)
+ 
+#### iv. Model Evaluation After Training:
+
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_concrete_cracks_classification/main/Model%20Evaluation%20before%20training.PNG)
 
 ## Source of datasets : 
 https://data.mendeley.com/datasets/5y9wdsg2zt/2 
