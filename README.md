@@ -4,7 +4,7 @@
 ### i.	What this project does?
 This project is to perform image classification to classify concretes with or without cracks applying transfer learning.
 ### ii.	Any challenges that was faced and how I solved them?
-- There were some challenges in the data preparation process where there were no train, test and validation dataset given. I solved them splitting the data into train, test and validation dataset. 
+- There were some challenges in the data preparation process where there were no train, test and validation dataset given. I solved them by splitting the data into train, test and validation dataset. 
 - Data augmentation model was created to artificially increase the size of the training dataset. 
 - Transfer learning was applied to achieve good performance and reducing the need for extensive training on expensive hardware.
 ### iii.	Some challenges / features you hope to implement?
